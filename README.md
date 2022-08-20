@@ -3,6 +3,7 @@ TOOLS FOR FACEBOOK CRACKER
 #FREEE SC
 
 #PACKAGES
+
 $ pkg update && pkg upgrade
 
 $ pkg install python git
